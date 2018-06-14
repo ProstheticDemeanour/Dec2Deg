@@ -1,0 +1,6 @@
+c:\users\dkurejsepi\documents\visual studio 2015\Projects\Dec2Deg\Dec2Deg\bin\Debug\Dec2Deg.exe.config
+c:\users\dkurejsepi\documents\visual studio 2015\Projects\Dec2Deg\Dec2Deg\bin\Debug\Dec2Deg.exe
+c:\users\dkurejsepi\documents\visual studio 2015\Projects\Dec2Deg\Dec2Deg\bin\Debug\Dec2Deg.pdb
+c:\users\dkurejsepi\documents\visual studio 2015\Projects\Dec2Deg\Dec2Deg\obj\Debug\Dec2Deg.csprojResolveAssemblyReference.cache
+c:\users\dkurejsepi\documents\visual studio 2015\Projects\Dec2Deg\Dec2Deg\obj\Debug\Dec2Deg.exe
+c:\users\dkurejsepi\documents\visual studio 2015\Projects\Dec2Deg\Dec2Deg\obj\Debug\Dec2Deg.pdb
